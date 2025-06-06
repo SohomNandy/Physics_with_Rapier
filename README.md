@@ -3,10 +3,6 @@
 **Physics_with_Rapier** is an experimental project that explores integrating the [Rapier physics engine](https://rapier.rs/) with [Three.js](https://threejs.org/) to create interactive 3D physics simulations in the browser.  
 This project serves as a sandbox for experimenting with rigid body dynamics, collision detection, and real-time rendering.
 
-## Demo
-
-You can view a live demo of the project here: [Physics_with_Rapier Demo](https://sohomnandy.github.io/Physics_with_Rapier/)
-
 ## Features
 
 - Integration of Rapier physics engine with Three.js
@@ -68,10 +64,6 @@ Physics_with_Rapier/
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
